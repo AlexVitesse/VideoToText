@@ -1,0 +1,15 @@
+# Interfaz web
+streamlit>=1.28.0
+
+# Transcripcion de audio (gratuito con Google Speech Recognition)
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+
+# IA para resumenes (Gemini)
+google-generativeai>=0.3.0
+
+# Generacion de PDF
+fpdf2>=2.7.0
+
+# Utilidades
+python-dotenv>=1.0.0
